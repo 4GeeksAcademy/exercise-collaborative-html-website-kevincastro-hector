@@ -1,0 +1,51 @@
+.container-fluid{
+    margin: -8px;
+    padding: 34px;
+
+    background-color: black;
+    height: 60px;
+color: gray;
+text-decoration: none;
+}
+
+.container-fluid > a {
+
+    color: gray;
+    text-decoration: none;
+}
+
+.nav-item > a {
+
+    color: gray;
+    text-decoration: none;
+}
+
+.myheader{
+
+    text-align: center;
+    
+    justify-content: center;
+    align-content: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYPaykYr1sH6uWaQB69Rz_mkkmq5mgAQ53xg&s);
+    
+    height: 500px
+}
+
+.myheader > h1 {
+
+    
+    color: black;
+    background-color:gray;
+    height: 60px;
+}
+
+.myheader > h2 {
+    display: grid;
+justify-content: center;
+
+    color: black;
+    background-color: rgb(128, 128, 128);
+    height: 60px;
+
+}
+
