@@ -1,6 +1,6 @@
 .container-fluid{
     margin: -8px;
-    padding: 34px;
+    padding: 11px;
 
     background-color: black;
     height: 60px;
@@ -10,13 +10,17 @@ text-decoration: none;
 
 .container-fluid > a {
 
-    color: gray;
+    color: white;
     text-decoration: none;
+}
+
+.navbar-brand{
+    margin-left: 20px;
 }
 
 .nav-item > a {
 
-    color: gray;
+    color: white;
     text-decoration: none;
 }
 
@@ -49,3 +53,65 @@ justify-content: center;
 
 }
 
+.navbar-toggler{
+
+    background: white;
+}
+
+.navbar-toggler-icon {
+    background: gray;
+}
+
+.gris1{
+    color: gray;
+}
+
+.heading1  {
+    display: flex;
+    margin-top: 120px;}
+
+    .texto{
+        
+        margin-left: 125px;
+        margin-right: 70px;
+        
+    }
+
+    
+
+    .imagen1{
+        margin-right: 125px;
+    }
+
+    .caballo{
+
+        border-radius: 50%;
+    }
+
+    .gris2{
+    color: gray;
+}
+
+.heading2  {
+    display: flex;
+    margin-top: 180px;
+}
+
+    .texto2{
+        
+        margin-left: 25px;
+        margin-right: 125px;
+        
+    }
+
+    
+
+    .imagen2{
+        margin-left: 125px;
+
+    }
+
+    .caballo2{
+
+        border-radius: 50%;
+    }
